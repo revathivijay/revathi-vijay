@@ -31548,26 +31548,24 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-right: 533px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
-@media (max-width: 991px) {
-  .u-header .u-text-1 {
-    margin-right: 313px;
-  }
-}
+
 @media (max-width: 767px) {
   .u-header .u-social-icons-1 {
     margin-right: auto;
   }
 
-  .u-header .u-text-1 {
-    margin-right: 133px;
+  .u-header .u-menu-1 {
+    margin-top: 20px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-text-1 {
-    margin-right: 0;
+  .u-header .u-sheet-1 {
+    min-height: 194px;
   }
 }
 .u-footer {
